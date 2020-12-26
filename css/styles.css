@@ -58,6 +58,8 @@ h2 {
   color: #66BFBF;
   font-family: 'Montserrat', sans-serif;
   font-size: 2.8125rem;
+  margin: auto;
+  width: 40%;
 }
 
 h3 {
